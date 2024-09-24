@@ -1,6 +1,7 @@
 # Grate
 
-# Fork for a reason, show love to kyle the og creator
+# the reason this exist it to add more mods the the Grate mod
+- i may submit pull request to add it to the official mod but maybe not
 
 *Grate* is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.
 
