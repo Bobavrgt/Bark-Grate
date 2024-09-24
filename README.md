@@ -9,8 +9,10 @@
 
 ## Links
 
-* Discord: https://discord.gg/B2MErU9KCp
-* YouTube: https://youtube.com/@graze_?si=a4UvBEjjFuefMG-w
+* Best modding server: https://discord.gg/6aKBACDBED
+
+* Grate Discord: https://discord.gg/B2MErU9KCp
+* Grate YouTube: https://youtube.com/@graze_?si=a4UvBEjjFuefMG-w
 
 * OG Discord: https://discord.gg/B2MErU9KCp
 * OG YouTube: https://www.youtube.com/@kylethescientist
