@@ -1,7 +1,6 @@
 # Grate
 
-# the reason this exist it to add more mods the the Grate mod, if u want it compile cuz im not gon make any realeas as its mainly for personal use
-- i may submit pull request to add it to the official mod but prolly not
+# Fork for a reason, show love to kyle the og creator
 
 *Grate* is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.
 
@@ -9,9 +8,8 @@
 
 ## Links
 
-
-* Grate Discord: https://discord.gg/B2MErU9KCp
-* Grate YouTube: https://youtube.com/@graze_?si=a4UvBEjjFuefMG-w
+* Discord: https://discord.gg/B2MErU9KCp
+* YouTube: https://youtube.com/@graze_?si=a4UvBEjjFuefMG-w
 
 * OG Discord: https://discord.gg/B2MErU9KCp
 * OG YouTube: https://www.youtube.com/@kylethescientist
@@ -63,16 +61,4 @@ When you join a modded lobby, simply beat on your chest like a gorilla in an alt
 While *Grate* is designed to be safe to use in modded lobbies, it is important to note that using mods in any form in public lobbies can result in a ban from the game. Use *Grate* at your own risk and only in modded lobbies.
 
 ## Bugs and issues
-If you encounter any bugs or issues while using *Grate*, please report them on the mod's GitHub page. I will do my best to address them as soon as possible. 
-
-## Contributing
-If you would like to contribute to *Grate*, feel free to submit a pull request on the mod's GitHub page. I welcome any and all contributions that can help make the mod better for everyone.
-
-## Credits
-*Grate* was created by KyleTheScientist. 
-Thanks to the Gorilla Tag modding community for their support.
-Special thanks to my little brother Asher for helping me test :)
-
-* [Boxing Gloves model](https://skfb.ly/6XOUS) by Gohar.Munir is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-* Orignal Bark Mod by kylethescientist pls show them love!
+If you encounter any bugs or issues while using *Grate*, please report them on the
